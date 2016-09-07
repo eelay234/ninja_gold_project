@@ -1,0 +1,35 @@
+#container {
+	margin: 0 auto;
+	width: 960px;
+	height: 700px;
+}
+
+.box {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	border: solid 1px black;
+	padding: 10px;
+	margin: 10px 10px 10px 0;
+}
+
+#activities_box {
+	width: 500px;
+	height: 200px;
+	border: solid 1px black;
+	padding: 10px;
+	background-color: #dcdcdc;
+	overflow: scroll;
+}
+
+h4 {
+	margin-bottom: 0px;
+}
+
+#show_score {
+	width: 100px;
+	border: solid 1px black;
+	margin-left: 5px;
+	padding: 3px;
+	display: inline-block;
+}
